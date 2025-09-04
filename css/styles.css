@@ -376,6 +376,10 @@ nav a:hover {
   color: #eff783;
 }
 
+#mainWrapper h1 {
+  padding: 1rem;
+}
+
 #footerWrapper {
   background-color: #E1B5F7;
 }
